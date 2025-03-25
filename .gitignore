@@ -1,0 +1,11 @@
+# Ignorar archivos de macOS
+.DS_Store
+
+# Ignorar archivos de VSC (opcional)
+.vscode/
+
+# Ignorar node_modules si usas JavaScript (opcional)
+node_modules/
+
+# Ignorar archivos de entorno (opcional)
+.env
